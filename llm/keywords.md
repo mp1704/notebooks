@@ -1,0 +1,1 @@
+- alignment: usally a pre-trained llm doesnt generate a helpful text. So we need to **align** this model to the user desires.
