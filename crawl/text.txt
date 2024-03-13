@@ -1,0 +1,299 @@
+Câu  1: Cho hai số tự nhiên biết rằng hai lần số thứ nhất hơn ba lần số thứ hai là 9 và hiệu các bình phương của chúng bằng 119. Tìm số lớn hơn.
+
+A. 12			
+B. 13			
+C. 32			
+D. 33
+
+Lời giải:
+Gọi số thứ nhất là a; a ∈ N , số thứ hai là b; b ∈ N
+
+Vì hai lần số thứ nhất hơn ba lần số thứ hai là 9 nên ta có:
+
+
+
+Vì hiệu các bình phương của chúng bằng 119 nên ta có phương trình:
+
+a2 – b2 = 119  hay
+
+
+
+Chọn đáp án A.
+
+Câu  2: Tích của hai số tự nhiên liên tiếp lớn hơn tổng của chúng là 109. Tìm số bé hơn.
+
+A. 12			
+B. 13			
+C. 32			
+D. 11
+
+Lời giải:
+Gọi số bé hơn là a; a ∈ N thì số lớn hơn là a + 1
+
+Vì tích của hai số tự nhiên liên tiếp lớn hơn tổng của chúng là 109 nên ta có phương trình:
+
+
+
+Vậy số bé hơn là 11.
+
+Chọn đáp án D.
+
+Câu  3: Một hình chữ nhật có chiều dài gấp 3 lần chiều rộng. Nếu cả chiều dài và chiều rộng cùng tăng thêm 5cm thì được một hình chữ nhật mới có diện tích bằng 153 cm2. Tìm chu vi hình chữ nhật ban đầu.
+
+A. 16			
+B. 32			
+C. 34			
+D. 36
+
+Lời giải:
+Gọi x là chiều rộng hình chữ nhật lúc đầu (x > 0) (cm)
+
+Chiều dài hình chữ nhật lúc đầu: 3x (cm)
+
+Chiều rộng hình chữ nhật lúc sau: x + 5 (cm)
+
+Chiều dài hình chữ nhật lúc sau:  3x + 5 (cm)
+
+Theo đề bài ta có phương trình: (x + 5)(3x + 5) = 153
+
+
+
+Vậy chiều dài và chiều rộng hình chữ nhật ban đầu là: 12 cm và 4 cm
+
+Suy ra chu vi hình chữ nhật ban đầu là: (12 + 4).2 = 32 (cm)
+
+Chọn đáp án B.
+
+Câu  4: Cho tam giác vuông có cạnh huyền bằng 20 cm. Hai cạnh góc vuông có độ dài hơn kém nhau 4 cm. Một trong hai cạnh góc vuông của tam giác vuông có độ dài là:
+
+A. 16			
+B. 15			
+C. 14			
+D. 13
+
+Lời giải:
+Gọi độ dài cạnh góc vuông nhỏ hơn của tam giác vuông đó là x (cm); (0 < x < 20)
+
+Cạnh góc vuông lớn hơn của tam giác vuông có độ dài là: x + 4
+
+Vì cạnh huyền bằng 20 cm nên theo định lý Py-ta-go ta có:
+
+
+
+Vậy độ dài hai cạnh góc vuông của tam giác vuông đó lần lượt là: 12 cm và 12 + 4 = 16 cm
+
+Chọn đáp án A.
+
+Câu  5: Một thửa ruộng hình tam giác có diện tích 180 cm2. Tính chiều dài cạnh đáy thửa ruộng, biết rằng nếu tăng cạnh đáy lên 4m và chiều cao tương ứng giảm đi 1m thì diện tích không đổi.
+
+A. 10			
+B. 35			
+C. 36			
+D. 18
+
+Lời giải:
+Gọi độ dài cạnh đáy là x (cm) (x > 0)
+
+Chiều cao của thửa ruộng có độ dài là: 360/x (cm)
+
+Vì nếu tăng cạnh đáy lên 4m và chiều cao tương ứng giảm 1m đi thì diện tích không đổi nên ta có phương trình:
+
+
+
+Vậy chiều dài cạnh đáy của thửa ruộng có độ dài là: 36 cm
+
+Chọn đáp án C.
+
+Câu  6: Một người dự định đi xe máy từ tỉnh A đến tỉnh B cách nhau 90 km trong một thời gian đã định. Sau khi đi được 1 giờ, ngườ đó nghỉ 9 phút. Do đó, để đến tỉnh B đúng hẹn, người ấy phải tăng vận tốc thêm 4 km/h. Tính vận tốc lúc đầu của người đó.
+
+A. 36 km / h                        
+B.  40 km/ h                
+C. 45km/ h                       
+D. 50km/ h
+
+Lời giải:
+Gọi vận tốc ban đầu của người đó là x (km/h) (x > 0).
+
+Thời giạn dự định người đó đi hết quãng đường là 90/x  (h).
+
+Quãng đường người đó đi được sau 1 giờ là x (km).
+
+Quãng đường còn lại người đó phải tăng tốc là 90 – x (km).
+
+Vận tốc của người đó sau khi tăng tốc là x + 4 (km/h).
+
+Thời gian người đó đi hết quãng đường còn lại là   (h).
+
+Theo đề bài ta có phương trình:
+
+
+
+Vậy vận tốc lúc đầu của người đó là 36 km/h.
+
+Chọn đáp án A.
+
+Câu  7: Quãng đường AB dài 50 km. Hai xe máy khởi hành cùng một lúc từ A đến 
+B. Vận tốc xe thứ nhất lớn hơn vận tốc xe thứ hai 10 km/h, nên xe thứ nhất đến B trước xe thứ hai 15 phút. Tính vận tốc mỗi xe.
+
+A. 40 và  30                        
+B.  40 và 50                    
+C. 50 và 60                 
+D. 45 và 55
+
+Lời giải:
+Gọi vận tốc của xe thứ nhất là x (km/h) (x > 10).
+
+Vận tốc của xe thứ hai là x – 10 (km/h).
+
+Thời gian xe thứ nhất đi từ A đến B là 50/x (h).
+
+Thời gian xe thứ hai đi từ A đến B là  (h).
+
+Vì xe thứ nhất đến B trước xe thứ hai 15 phút = 1/4 h  nên ta có phương trình:
+
+
+
+Vậy vận tốc của xe thứ nhất là 50 km/h, vận tốc của xe thứ hai là 40 km/h.
+
+Chọn đáp án B.
+
+Câu 8: Một xe ô tô đi từ A đến B theo đường quốc lộ cũ dài 156km với vận tốc không đổi. Khi từ B về A, xe đi đường cao tốc mới nên quãng đường giảm được 36km so với lúc đi và vận tốc tăng so với lúc đi là 32km/h. Tính vận tốc ô tô khi đi từ A đến B, biết thời gian đi nhiều hơn thời gian về là 1 giờ 45 phút.
+
+A. 36 km/ h                      
+B. 40km/h                     
+C. 45km/ h                      
+D. 48 km/ h
+
+Lời giải:
+Gọi vận tốc của ô tô khi đi từ A đến B là x (km/h) (x > 0)
+
+Thời gian ô tô đi từ A đến B là:  156/x (giờ)
+
+Vận tốc của ô tô lúc về là: x + 32 (km) .
+
+
+
+Vậy vận tốc của ô tô lúc đi từ A đến B là 48km/h
+
+Chọn đáp án D.
+
+Câu  9: Để phục vụ cho Festival Huế 2018, một cơ sở sản xuất nón lá dự kiến làm ra 300 chiếc nón lá trong một thời gian đã định. Do được bổ sung thêm nhân công nên mỗi ngày cơ sở đó làm ra được nhiều hơn 5 chiếc nón lá so với dự kiến ban đầu, vì vậy cơ sở sản xuất đã hoàn thành 300 chiếc nón lá sớm hơn 3 ngày so với thời gian đã định. Hỏi theo dự kiến ban đầu, mỗi ngày cơ sở đó làm được ra bao nhiêu chiếc nón lá? Biết rằng số chiếc nón lá làm ra mỗi ngày là bằng nhau và nguyên chiếc.
+
+A. 10                                    
+B. 15                               
+C. 20                              
+D. 25
+
+Lời giải:
+ Gọi số chiếc nón lá mỗi ngày cơ sở đó làm được là x (chiếc)
+
+Số ngày cơ sở đó dự kiến làm hết 300 chiếc nón lá là: 300/x  (ngày)
+
+Sau khi làm tăng thêm 5 chiếc nón lá một ngày thì thời gian cơ sở đó làm hết 300 chiếc nón lá là:   (ngày).
+
+Theo đề bài ta có phương trình:
+
+
+
+Vậy theo dự kiến, mỗi ngày cơ sở đó làm được 20 chiếc nón lá.
+
+Chọn đáp án C.
+
+Câu  10:   Một ca nô chạy xuôi dòng sông từ A đến B rồi chạy ngược dòng từ B về A hết tất cả 7 giờ 30 phút. Tính vận tốc thực của ca nô biết quãng đường sông AB dài 54 km và vận tốc dòng nước là 3 km/h.
+
+Lời giải:
+ Đổi 7 giờ 30 phút= 15/2 (h)
+
+Gọi vận tốc thực của ca nô là x (km/h;  x > 3).
+
+vận tốc của ca nô khi xuôi dòng sông từ A đến B là: x + 3 (km/h)
+
+Vận tốc của ca nô khi ngược dòng sông từ B về A là: x – 3 (km/h)
+
+Thời gian của ca nô khi xuôi dòng sông từ A đến B là:  (h)
+
+Thời gian của ca nô khi ngược dòng sông từ B về A là:  (h)
+
+Do ca nô chạy xuôi dòng sông từ A đến B rồi chạy ngược dòng từ B về A hết tất cả 7 giờ 30 phút nên ta có phương trình:
+
+
+
+Ta thấy chỉ có x = 15 thỏa mãn điều kiện x > 3.
+
+Vậy vận tốc thực của ca nô là 15 (km/h).
+
+Câu 11: Một công nhân dự định làm 120 sản phẩm trong một thời gian dự định. Sau khi làm được 2 giờ với năng suất dự kiến, người đó đã cải tiến các thao tác hợp lý hơn nên tăng năng suất thêm 3 sản phẩm mỗi giờ và vì vậy người đó hoàn thành kế hoạch sớm hơn dự định 1 giờ 36 phút. Hãy tính năng suất dự kiến.
+A. 10          
+B. 14          
+C. 12          
+D. 18
+Lời giải:
+Gọi năng suất dự định là x (0 < x < 20, sản phẩm/giờ)
+Sản phẩm làm được sau 2 giờ là: 2x (sản phẩm)
+Số sản phẩm còn lại là 120 – 2x (sản phẩm)
+Năng suất sau khi cải tiến là x + 3 (sản phẩm/giờ)
+Thời gian làm số sản phẩm còn lại là:  (giờ)
+Do sau khi cải tiến người đó hoàn thành kế hoạch sớm hơn dự định 1 giờ 36 phút
+Đổi 1 giờ 36 phút bằng 1,6 giờ
+
+Vậy năng suất dự định của công nhân đó là 12 sản phẩm/giờ
+Đáp án cần chọn là: C
+Câu 12: Một nhóm thợ phải thực hiện kế hoạch sản xuất 3000 sản phẩm. Trong 8 ngày đầu, họ thực hiện đúng mức đề ra, những ngày còn lại họ vượt mức mỗi ngày 10 sản phẩm nên đã hoàn thành sớm hơn dự định 2 ngày. Hỏi theo kế hoạch cần sản xuất mỗi ngày bao nhiêu sản phẩm.
+A. 100 sản phẩm                               
+B. 200 sản phẩm
+C. 300 sản phẩm                               
+D. 400 sản phẩm
+Lời giải:
+Gọi số sản phẩm nhóm thợ theo kế hoạch phải làm mỗi ngày là x (x ∈ N*)
++) Theo kế hoạch: Thời gian hoàn thành là  (ngày)
++) Thực tế:
+Số sản phẩm làm trong 8 ngày là 8x (sản phẩm)
+Số sản phẩm còn lại là 3000 – 8x (sản phẩm)
+Mỗi ngày sau đó nhóm thợ làm được x + 10 (sản phẩm)
+Thời gian hoàn thành  (ngày)
+Vì thời gian thực tế ít hơn thời gian dự định là 2 ngày nên ta có phương trình:
+
+Phương trình có hai nghiệm phân biệt: x1 = − 25 – 125 = −150 (loại) và
+x2 = −25 + 125 = 100 (tmđk)
+Vậy theo kế hoạch, mỗi ngày cần làm 100 sản phẩm
+Đáp án cần chọn là: A
+Câu 13: Theo kế hoạch một người công nhân phải hoàn thành 84 sản phẩm trong một thời gian nhất định. Do cải tiến kĩ thuật nên thực tế mỗi giờ người đó đã làm được nhiều hơn 2 sản phẩm so với số sản phẩm phải làm trong một giờ theo kế hoạch. Vì vậy người đó hoàn thành công việc sớm hơn dự định 1 giờ. Hỏi theo kế hoạch, mỗi giờ người công nhân phải làm bao nhiêu sản phẩm.
+A. 16          
+B. 12          
+C. 14          
+D. 18
+Lời giải:
+Gọi x là số sản phẩm mỗi giờ mà người công nhân phải hoàn thành theo kế hoạch (x ∈ N*, x < 84)
+Số sản phẩm mỗi giờ mà người công nhân phải hoàn thành theo thực tế: x + 2
+Thời gian mà công nhân hoàn thành theo kế hoạch:  (h)
+Thời gian mà công nhân hoàn thành theo thực tế:  (h)
+Người công nhân đó hoàn thành công việc sớm hơn dự định 1 giờ nên ta có phương trình:
+
+Vậy theo kế hoạch mỗi giờ người công nhân phải làm 12 sản phẩm
+Đáp án cần chọn là: B
+Câu 14: Một đội sản xuất phải làm 1000 sản phẩm trong một thời gian quy định. Nhờ năng năng suất nên mỗi ngày đội làm thêm được 10 sản phẩm so với kế hoạch. Vì vậy, chẳng những đã làm vượt mức kế hoạch 80 sản phẩm mà còn hoàn thành sớm hơn 2 ngày so với quy định. Tính số sản phẩm mà đội phải làm trong 1 ngày theo kế hoạch.
+A. 60 sản phẩm                                 
+B. 70 sản phẩm
+C. 50 sản phẩm                                 
+D. 80 sản phẩm
+Lời giải:
+Gọi số sản phẩm đội dự định làm mỗi ngày là x (x ∈ N*, x < 84) (sản phẩm)
+*) Theo kế hoạch, thời gian hoàn thành là  (ngày)
+*) Thực tế, mỗi ngày làm được x + 10 (sản phẩm)
+Thời gian hoàn thành  (ngày)
+Vì thời gian thực tế ít hơn thời gian dự định là 2 ngày nên ta có phương trình:
+
+Phương trình có hai nghiệm phân biệt: x1 = − 25 – 75 = −100 (loại)
+và x2 = −25 + 75 = 50 (tmđk)
+Vậy theo kế hoạch, mỗi ngày tổ dự định làm 50 sản phẩm
+Đáp án cần chọn là: C
+Câu 15: Một xưởng có hế hoạch in xong 6000 quyển sách giống nhau trong một thời gian quy định, biết số quyển sách in được trong một ngày là bằng nhau. Để hoàn thành sớm kế hoạch, mỗi ngày xưởng đã in nhiều hơn 300 quyển sách so với số quyển sách phải in trong kế hoạch, nên xưởng in xong 6000 quyển sách nói trên sớm hơn kế hoạch 1 ngày. Tính số quyển sách xưởng in được trong 1 ngày theo kế hoạch.
+A. 1600      
+B. 3000      
+C. 1400      
+D. 1200
+Lời giải:
+Gọi x (quyển sách) là số quyển sách xưởng in được trong mỗi ngày theo kế hoạch (x ∈ N*)
+Số ngày in theo kế hoạch:  (ngày)
+Số quyển sách xưởng in được thực tế trong mỗi ngày: x + 300 (quyển sách)
+Số ngày in thực tế:  (ngày)
